@@ -5,7 +5,7 @@ function App() {
 
   return (
     <>
-      <h1>Knowledge Cafe</h1>
+      <h1 className=''>Knowledge Cafe</h1>
     </>
   )
 }
