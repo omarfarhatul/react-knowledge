@@ -1,0 +1,52 @@
+[
+  {
+    "id": "1",
+    "cover": "https://example.com/covers/cover-01.jpg",
+    "title": "Designing Lightweight ML Models for Edge Devices",
+    "author": "Maya Rahman",
+    "author_img": "https://example.com/authors/maya-rahman.jpg",
+    "posted_date": "2025-09-12",
+    "reading_time": "7",
+    "hashtags": ["#ML", "#EdgeComputing", "#TinyML"]
+  },
+  {
+    "id": "2",
+    "cover": "https://example.com/covers/cover-02.jpg",
+    "title": "A Practical Guide to Asynchronous JavaScript",
+    "author": "Arif Chowdhury",
+    "author_img": "https://example.com/authors/arif-chowdhury.jpg",
+    "posted_date": "2025-08-03",
+    "reading_time": "5",
+    "hashtags": ["#JavaScript", "#Async", "#WebDev"]
+  },
+  {
+    "id": "3",
+    "cover": "https://example.com/covers/cover-03.jpg",
+    "title": "Sustainable IoT: Low-power Designs That Last",
+    "author": "Lina Hossain",
+    "author_img": "https://example.com/authors/lina-hossain.jpg",
+    "posted_date": "2025-07-22",
+    "reading_time": "6",
+    "hashtags": ["#IoT", "#Sustainability", "#Hardware"]
+  },
+  {
+    "id": "4",
+    "cover": "https://example.com/covers/cover-04.jpg",
+    "title": "Introduction to Quantum-safe Cryptography",
+    "author": "Dr. Rakib Khan",
+    "author_img": "https://example.com/authors/rakib-khan.jpg",
+    "posted_date": "2025-10-05",
+    "reading_time": "9",
+    "hashtags": ["#Cryptography", "#Quantum", "#Security"]
+  },
+  {
+    "id": "5",
+    "cover": "https://example.com/covers/cover-05.jpg",
+    "title": "Rapid Prototyping with No-code Tools: When to Use Them",
+    "author": "Sadia Noor",
+    "author_img": "https://example.com/authors/sadia-noor.jpg",
+    "posted_date": "2025-06-30",
+    "reading_time": "4",
+    "hashtags": ["#NoCode", "#Product", "#Startup"]
+  }
+]
