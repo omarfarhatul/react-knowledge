@@ -7,7 +7,7 @@
     "author_img": "../src/assets/images/girl1.jpg",
     "posted_date": "2025-09-12",
     "reading_time": "7",
-    "hashtags": ["#ML", "#EdgeComputing", "#TinyML"]
+    "hashtags": ["#ML", "#EdgeComputing"]
   },
   {
     "id": "2",
@@ -17,7 +17,7 @@
     "author_img": "../src/assets/images/boy2.png",
     "posted_date": "2025-08-03",
     "reading_time": "5",
-    "hashtags": ["#JavaScript", "#Async", "#WebDev"]
+    "hashtags": ["#JavaScript", "#WebDev"]
   },
   {
     "id": "3",
@@ -27,7 +27,7 @@
     "author_img": "../src/assets/images/girl2.jpg",
     "posted_date": "2025-07-22",
     "reading_time": "6",
-    "hashtags": ["#IoT", "#Sustainability", "#Hardware"]
+    "hashtags": ["#IoT", "#Hardware"]
   },
   {
     "id": "4",
@@ -37,7 +37,7 @@
     "author_img": "../src/assets/images/boy1.png",
     "posted_date": "2025-10-05",
     "reading_time": "9",
-    "hashtags": ["#Cryptography", "#Quantum", "#Security"]
+    "hashtags": ["#Cryptography", "#Quantum"]
   },
   {
     "id": "5",
@@ -47,6 +47,6 @@
     "author_img": "../src/assets/images/girl1.jpg",
     "posted_date": "2025-06-30",
     "reading_time": "4",
-    "hashtags": ["#NoCode", "#Product", "#Startup"]
+    "hashtags": ["#NoCode", "#Product"]
   }
 ]

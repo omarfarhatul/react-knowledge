@@ -2,10 +2,10 @@ import React from 'react';
 import PropTypes from 'prop-types';
 
 const Blog = ({blog}) => {
-    const {title, cover, author, author_img, reading_time, posted_date}=blog;
+    const {title, cover, author, author_img, reading_time, posted_date, hashtags}=blog;
     return (
         <div>
-            <img className='w-1/2' src={cover} alt={`Cover picture of the title ${title}`} />
+            <img className='w-5/6 h-80' src={cover} alt={`Cover picture of the title ${title}`} />
             <div className='flex justify-between'>
                 <div className='flex'>
                     <img className='w-14' src={author_img} alt="" />
@@ -19,6 +19,11 @@ const Blog = ({blog}) => {
                 </div>
             </div>
             <h2 className="text-4xl">{title}</h2>
+            <p>
+                {
+                hashtags.map(hash => <span><a href="">{hash}</a></span>)
+                }
+            </p>
         </div>
     );
 };
