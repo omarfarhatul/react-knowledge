@@ -1,7 +1,7 @@
 [
   {
     "id": "1",
-    "cover": "https://example.com/covers/cover-01.jpg",
+    "cover": "../img/annie-spratt-_6oI5KLEsj0-unsplash.jpg",
     "title": "Designing Lightweight ML Models for Edge Devices",
     "author": "Maya Rahman",
     "author_img": "https://example.com/authors/maya-rahman.jpg",
@@ -11,7 +11,7 @@
   },
   {
     "id": "2",
-    "cover": "https://example.com/covers/cover-02.jpg",
+    "cover": "../img/daniel-frank-YSl18VKXRso-unsplash.jpg",
     "title": "A Practical Guide to Asynchronous JavaScript",
     "author": "Arif Chowdhury",
     "author_img": "https://example.com/authors/arif-chowdhury.jpg",
@@ -21,7 +21,7 @@
   },
   {
     "id": "3",
-    "cover": "https://example.com/covers/cover-03.jpg",
+    "cover": "../img/daryadarya-livejournal-nMQLCFIG0QA-unsplash.jpg",
     "title": "Sustainable IoT: Low-power Designs That Last",
     "author": "Lina Hossain",
     "author_img": "https://example.com/authors/lina-hossain.jpg",
@@ -31,7 +31,7 @@
   },
   {
     "id": "4",
-    "cover": "https://example.com/covers/cover-04.jpg",
+    "cover": "../img/kamil-kalkan-KBuO0W7Aze4-unsplash.jpg",
     "title": "Introduction to Quantum-safe Cryptography",
     "author": "Dr. Rakib Khan",
     "author_img": "https://example.com/authors/rakib-khan.jpg",
@@ -41,7 +41,7 @@
   },
   {
     "id": "5",
-    "cover": "https://example.com/covers/cover-05.jpg",
+    "cover": "../img/sarolta-balog-major-p2sLAX5CrhU-unsplash.jpg",
     "title": "Rapid Prototyping with No-code Tools: When to Use Them",
     "author": "Sadia Noor",
     "author_img": "https://example.com/authors/sadia-noor.jpg",
