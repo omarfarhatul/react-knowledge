@@ -6,6 +6,7 @@ const Blog = ({blog}) => {
     return (
         <div className='mb-20'>
             <img className='w-full h-80 mb-8' src={cover} alt={`Cover picture of the title ${title}`} />
+
             <div className='flex justify-between mb-4'>
                 <div className='flex'>
                     <img className='w-14' src={author_img} alt="" />
@@ -18,6 +19,7 @@ const Blog = ({blog}) => {
                     <span>{reading_time} min read</span>
                 </div>
             </div>
+            
             <h2 className="text-4xl">{title}</h2>
             <p>
                 {
