@@ -1,5 +1,6 @@
 import React from 'react';
 import PropTypes from 'prop-types';
+import { FaBeer } from 'react-icons/fa';
 
 const Blog = ({blog}) => {
     const {title, cover, author, author_img, reading_time, posted_date, hashtags}=blog;
@@ -17,6 +18,7 @@ const Blog = ({blog}) => {
                 </div>
                 <div>
                     <span>{reading_time} min read</span>
+                    <button><FaBeer></FaBeer></button>
                 </div>
             </div>
             
