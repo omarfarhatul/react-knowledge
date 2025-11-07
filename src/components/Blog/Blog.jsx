@@ -1,5 +1,4 @@
 import React from 'react';
-import PropTypes from 'prop-types';
 import { FaBookmark } from 'react-icons/fa';
 
 const Blog = ({blog, handleAddBookmark}) => {
@@ -33,8 +32,5 @@ const Blog = ({blog, handleAddBookmark}) => {
     );
 };
 
-Blog.propTypes={
-    blog: PropTypes.object.isRequired
-}
 
 export default Blog;
