@@ -4,6 +4,7 @@ import { FaBookmark } from 'react-icons/fa';
 
 const Blog = ({blog, handleAddBookmark}) => {
     const {title, cover, author, author_img, reading_time, posted_date, hashtags}=blog;
+    
     return (
         <div className='mb-20'>
             <img className='w-full h-80 mb-8' src={cover} alt={`Cover picture of the title ${title}`} />
