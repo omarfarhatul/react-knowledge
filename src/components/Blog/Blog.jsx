@@ -6,7 +6,7 @@ const Blog = ({blog, handleAddBookmark, handleMarkAsRead}) => {
     
     return (
         <div className='mb-20 space-y-4'>
-            <img className='w-full h-80 mb-8' src={cover} alt={`Cover picture of the title ${title}`} />
+            <img className='w-full mb-8' src={cover} alt={`Cover picture of the title ${title}`} />
 
             <div className='flex justify-between mb-4'>
                 <div className='flex'>

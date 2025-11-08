@@ -1,47 +1,47 @@
 [
   {
     "id": "1",
-    "cover": "../img/annie-spratt-_6oI5KLEsj0-unsplash.jpg",
+    "cover": "https://i.ibb.co.com/GQpxYgrs/1.jpg",
     "title": "Designing Lightweight ML Models for Edge Devices",
     "author": "Maya Rahman",
-    "author_img": "../src/assets/images/girl1.jpg",
+    "author_img": "https://i.ibb.co.com/wFF29Bkj/girl1.jpg",
     "posted_date": "2025-09-12",
     "reading_time": "7",
     "hashtags": ["#ML", "#EdgeComputing"]
   },
   {
     "id": "2",
-    "cover": "../img/daniel-frank-YSl18VKXRso-unsplash.jpg",
+    "cover": "https://i.ibb.co.com/BVDPgy9f/2.png",
     "title": "A Practical Guide to Asynchronous JavaScript",
     "author": "Arif Chowdhury",
-    "author_img": "../src/assets/images/boy2.png",
+    "author_img": "https://i.ibb.co.com/q3h0sRxr/boy1.png",
     "posted_date": "2025-08-03",
     "reading_time": "5",
     "hashtags": ["#JavaScript", "#WebDev"]
   },
   {
     "id": "3",
-    "cover": "../img/daryadarya-livejournal-nMQLCFIG0QA-unsplash.jpg",
+    "cover": "https://i.ibb.co.com/mVsLkxMc/3.png",
     "title": "Sustainable IoT: Low-power Designs That Last",
     "author": "Lina Hossain",
-    "author_img": "../src/assets/images/girl2.jpg",
+    "author_img": "https://i.ibb.co.com/chcLTPPT/girl2.jpg",
     "posted_date": "2025-07-22",
     "reading_time": "6",
     "hashtags": ["#IoT", "#Hardware"]
   },
   {
     "id": "4",
-    "cover": "../img/kamil-kalkan-KBuO0W7Aze4-unsplash.jpg",
+    "cover": "https://i.ibb.co.com/VX5WBhD/4.jpg",
     "title": "Introduction to Quantum-safe Cryptography",
     "author": "Dr. Rakib Khan",
-    "author_img": "../src/assets/images/boy1.png",
+    "author_img": "https://i.ibb.co.com/60zwJQ03/boy2.jpg",
     "posted_date": "2025-10-05",
     "reading_time": "9",
     "hashtags": ["#Cryptography", "#Quantum"]
   },
   {
     "id": "5",
-    "cover": "../img/sarolta-balog-major-p2sLAX5CrhU-unsplash.jpg",
+    "cover": "https://i.ibb.co.com/BVDPgy9f/2.png",
     "title": "Rapid Prototyping with No-code Tools: When to Use Them",
     "author": "Sadia Noor",
     "author_img": "../src/assets/images/girl1.jpg",
